@@ -1,6 +1,20 @@
 # Capstone_design
 
 
+## Software requirements
+* Ubuntu 20.04 LTS on the remote PC
+* ROS1 Noetic Ninjemys
+
+
+## Installing ROS on the remote PC
+```
+ubuntuvm@ubuntuvm:~$ sudo apt update
+Reading package lists... Done
+ubuntuvm@ubuntuvm:~$ sudo apt upgrade      
+Reading state information... Done
+
+
+```
 ## Creeating a workspace
 ```
 ubuntuvm@ubuntuvm:~$ cd ~/
