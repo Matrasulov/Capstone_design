@@ -18,6 +18,12 @@ ubuntuvm@ubuntuvm:~$ chmod 755 ./install_ros_noetic.sh
 ubuntuvm@ubuntuvm:~$ bash ./install_ros_noetic.sh
 [Note] Target OS version  >>> Ubuntu 20.04.x (Focal Fossa) or Linux Mint 21.x
 [Note] Target ROS version >>> ROS Noetic Ninjemys
+####
+#### Running command: "make -j4 -l4" in "/home/ubuntuvm/catkin_ws/build"
+####
+[Set the ROS evironment]
+[Complete!!!]
+
 
 ```
 ## Creeating a workspace
